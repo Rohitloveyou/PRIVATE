@@ -1,4 +1,4 @@
-मैं
+
 
 import marshal
 
